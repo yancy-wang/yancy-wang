@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yancy-wang(Yangyang Wang)
+- 👋 Hi, I’m yancy-wang
 - 👀 I’m currently pursuing my master’s degree at the University of Helsinki.
-- 🌱 My current areas of focus include machine learning, DevOps, edge & cloud computing, and embedded systems.
+- 🌱 I love philosophy
 
 <!---
 yancy-wang/yancy-wang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
